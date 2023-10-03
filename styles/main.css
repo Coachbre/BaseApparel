@@ -1,0 +1,46 @@
+body { 
+font-family: 'Josefin Sans', sans-serif;
+background-color: rgb(243, 230, 232);
+}
+
+header{
+padding-left: 200px;
+padding-top: 50px;
+}
+
+main {
+ 
+  display: flex;
+}
+
+.mainText {
+    padding-left: 200px;
+    padding-top: 200px;
+    padding-right: 200px;
+}
+
+h1 {
+  font-size: 75px;
+}
+.weAre {
+  color: hsl(0, 36%, 70%);
+}
+ 
+.message {
+  font-size: 16px;
+  color: hsl(0, 36%, 70%)
+}
+.email {
+  color: hsl(0, 36%, 70%);
+}
+aside {
+  float: right;
+ 
+}
+
+img {
+  /* display: block; */
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -100px;
+}
